@@ -2,6 +2,6 @@ body{background-color: #00DBDE;
     background-image: linear-gradient(to right, #00DBDE 0%, #FC00FF 100%);
     ;color:white}
     a{text-decoration: none;
-    color:white;font-size:medium
+    color:white;font-size:medium;font-size:larger;
     align-content: center;}
-    a:hover{color:#FC00FF;background-color:aqua;font-size:medium;}
+    a:hover{color:#FC00FF;background-color:aqua;font-size:x-large;}
