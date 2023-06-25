@@ -1,6 +1,6 @@
    body{background-color: #52ACFF;
       background-image: linear-gradient(to right, #52ACFF 25%, #FFE32C 100%);
-;color:white;font-size:large;}
-div{margin:20px}
-
+;color:white;}
+form{margin:35px}
+body{font-size:medium}
 a{color:white;text-decoration: none;font-size: x-large;}
