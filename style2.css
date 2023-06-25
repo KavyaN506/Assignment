@@ -2,3 +2,7 @@ body{background-color: #FEE140;
     background-image: linear-gradient(to right, #FEE140 0%, #FA709A 100%);
     ;color:white;font-size: xx-large;}
     
+    iframe{margin:50px}
+    a{color: white;
+    font-size: x-large;
+text-decoration: none;}
